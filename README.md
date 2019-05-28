@@ -1,2 +1,2 @@
-# coaches-hangout
+# Coaches Hangout notes
 Testing this out
